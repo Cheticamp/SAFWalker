@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SAF Walker</string>
+    <string name="show_directories">Show directories</string>
+    <string name="data_will_display_here">The content of /storage/emulated/0/Android/data will display here when the FAB is clicked.</string>
+    <string name="file_progress">File count: %d</string>
+    <!-- Strings used for fragments for navigation -->
+
+</resources>
